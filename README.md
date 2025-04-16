@@ -33,6 +33,7 @@ git clone https://github.com/yourusername/react-debugging-tips.git
 cd react-debugging-tips
 npm install
 npm start
+```
 
 Make sure you have Node.js and npm installed on your machine.
 
